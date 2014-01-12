@@ -1,0 +1,1286 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"listene",
+				"listenerId"
+			],
+			[
+				"_",
+				"_memories"
+			],
+			[
+				"define",
+				"defineLazyProperty"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"clear",
+				"clearGhostListeners"
+			],
+			[
+				"remove",
+				"removeAllListeners"
+			],
+			[
+				"list",
+				"listenerIdOrEvent"
+			],
+			[
+				"lis",
+				"listenerIdOrEvent"
+			],
+			[
+				"set",
+				"setEventAsImmediate  (function)"
+			],
+			[
+				"defineP",
+				"definePrivateProperty"
+			],
+			[
+				"defin",
+				"definePrivateStorage"
+			],
+			[
+				"setEventAs",
+				"setEventsAsImmediate  (function)"
+			],
+			[
+				"listenr",
+				"listenersId"
+			],
+			[
+				"listn",
+				"listenersId"
+			],
+			[
+				"listener",
+				"listenersId"
+			],
+			[
+				"LISTEN",
+				"LISTENERS"
+			],
+			[
+				"listner",
+				"listenerId"
+			],
+			[
+				"LIST",
+				"LISTENERS"
+			],
+			[
+				"LISTENE",
+				"LISTENERS_COUNT"
+			],
+			[
+				"trigger",
+				"triggered"
+			],
+			[
+				"trig",
+				"triggered"
+			],
+			[
+				"resolve",
+				"resolveRoutes"
+			],
+			[
+				"transform",
+				"Transform"
+			],
+			[
+				"Scroll",
+				"scrollbar_UIForwardEvents"
+			],
+			[
+				"Add",
+				"AddComponent	componentType"
+			],
+			[
+				"m_UI",
+				"m_UIForwardEvents"
+			],
+			[
+				"hovere",
+				"hoverTime"
+			],
+			[
+				"ScreenTo",
+				"ScreenPointToRay	position"
+			],
+			[
+				"curent",
+				"currentCamera"
+			],
+			[
+				"SleepMana",
+				"SleepManagerUIRoot"
+			],
+			[
+				"Vect",
+				"Vector3	x, y, z"
+			],
+			[
+				"UIPane",
+				"UIPanelOfChildrenOnDrop"
+			],
+			[
+				"IndexOf",
+				"IndexOfTask"
+			],
+			[
+				"Shu",
+				"ShuttlePath"
+			],
+			[
+				"target",
+				"targetIndex"
+			],
+			[
+				"ke",
+				"keyframes"
+			],
+			[
+				"Time",
+				"TimelineKeyframe"
+			],
+			[
+				"Sh",
+				"ShuttleWaypoint"
+			],
+			[
+				"Shuttle",
+				"ShuttleWaypoint"
+			],
+			[
+				"In",
+				"Instance"
+			],
+			[
+				"wayp",
+				"waypoints"
+			],
+			[
+				"p",
+				"pathVertex"
+			],
+			[
+				"is",
+				"isUpdatingPath"
+			],
+			[
+				"way",
+				"waypoints"
+			],
+			[
+				"dyna",
+				"dynamicVertex"
+			],
+			[
+				"up",
+				"isUpdatingPath"
+			],
+			[
+				"Timeli",
+				"TimelineKeyframe"
+			],
+			[
+				"wa",
+				"waypoints"
+			],
+			[
+				"waypoi",
+				"waypoint"
+			],
+			[
+				"dyn",
+				"dynamicVertex"
+			],
+			[
+				"Vec",
+				"Vector3	x, y, z"
+			],
+			[
+				"waypo",
+				"waypoint"
+			],
+			[
+				"waypoint",
+				"waypointPosition"
+			],
+			[
+				"sqr",
+				"sqrMagnitude"
+			],
+			[
+				"WorldT",
+				"WorldToViewportPoint	position"
+			],
+			[
+				"Remove",
+				"RemoveVertexAt"
+			],
+			[
+				"World",
+				"WorldToViewportPoint	position"
+			],
+			[
+				"Waypoint",
+				"ShuttleWaypoint"
+			],
+			[
+				"waypoin",
+				"waypointsVertices"
+			],
+			[
+				"dynamic",
+				"dynamicVertexIndex"
+			],
+			[
+				"dynam",
+				"dynamicVertices"
+			],
+			[
+				"Worl",
+				"WorldToViewportPoint	position"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"ex",
+				"exclusion"
+			],
+			[
+				"gamma",
+				"gammaToLinear"
+			],
+			[
+				"gray",
+				"grayscale"
+			],
+			[
+				"e",
+				"exclusion"
+			],
+			[
+				"create",
+				"createBlendFunction"
+			],
+			[
+				"global",
+				"globalCompositeOperation  (variable)"
+			],
+			[
+				"left",
+				"leftAlpha"
+			],
+			[
+				"right",
+				"rightAlpha"
+			],
+			[
+				"toRGB",
+				"toRgbString  (function)"
+			],
+			[
+				"this",
+				"treeInstance.heightScale	[var]"
+			],
+			[
+				"useWorl",
+				"useWorldSpace	LineRenderer.*"
+			],
+			[
+				"Viewport",
+				"ViewportToWorldPoint	Camera.*(position)"
+			],
+			[
+				"Color",
+				"Color	GL.*(c)"
+			],
+			[
+				"LineRendere",
+				"LineRenderer.SetVertexCount	*(count)"
+			],
+			[
+				"LineRender",
+				"LineRenderer.SetPosition	*(index, position)"
+			],
+			[
+				"LineRe",
+				"LineRenderer.SetPosition	*(index, position)"
+			],
+			[
+				"color",
+				"color	[class]"
+			],
+			[
+				"col",
+				"color	*(r, g, b, a)"
+			],
+			[
+				"GetCom",
+				"GameObject.GetComponent	*(type)"
+			],
+			[
+				"GetC",
+				"GetComponent	GameObject.*<T>()"
+			],
+			[
+				"GameObje",
+				"GameObject	*(name, params components)"
+			],
+			[
+				"trans",
+				"transform	[class]"
+			],
+			[
+				"tra",
+				"transform	[class]"
+			],
+			[
+				"Get",
+				"GetFloat	PlayerPrefs.*(key, defaultValue)"
+			],
+			[
+				"SetColors",
+				"SetColors	start, end"
+			],
+			[
+				"sq",
+				"sqrMagnitude"
+			],
+			[
+				"dynami",
+				"dynamicVertexIndex"
+			],
+			[
+				"Draw",
+				"DrawQuads"
+			],
+			[
+				"Hide",
+				"HideAndDontSave"
+			],
+			[
+				"SleepM",
+				"SleepManager"
+			],
+			[
+				"Tra",
+				"StartCoroutine_Auto(IEnumerator)	Coroutine"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"Network",
+				"NetworkView"
+			],
+			[
+				"Net",
+				"NetworkViewID"
+			],
+			[
+				"FindObject",
+				"FindObjectsOfType	type"
+			],
+			[
+				"GetCompo",
+				"GetComponent	type"
+			],
+			[
+				"OnTr",
+				"OnTriggerEnter	other"
+			],
+			[
+				"Netw",
+				"NetworkManager"
+			],
+			[
+				"NetWor",
+				"NetworkView"
+			],
+			[
+				"A",
+				"Approximately	a, b"
+			],
+			[
+				"OnCOlli",
+				"OnCollisionEnter	collision"
+			],
+			[
+				"velocity",
+				"velocityY"
+			],
+			[
+				"veloi",
+				"velocityX"
+			],
+			[
+				"velo",
+				"velocityY"
+			],
+			[
+				"Curve",
+				"Curve_UIPanel"
+			],
+			[
+				"Manag",
+				"Management_UIPanel"
+			],
+			[
+				"tween",
+				"TweenPosition"
+			],
+			[
+				"TaskBut",
+				"TaskButtonsContainer"
+			],
+			[
+				"Scree",
+				"ScreenToWorldPoint	position"
+			],
+			[
+				"GetCOmpo",
+				"GetComponentInChildren	type"
+			],
+			[
+				"GetComponent",
+				"GetComponentInChildren	type"
+			],
+			[
+				"Instanta",
+				"InstantiateChild"
+			],
+			[
+				"MonoBe",
+				"MonoBehaviour"
+			],
+			[
+				"power",
+				"powerDifferenceOverThreshold"
+			],
+			[
+				"plasma",
+				"plasmaDifferenceOverThreshold"
+			],
+			[
+				"sleepManager",
+				"sleepManagerUIRoot_Transform"
+			],
+			[
+				"SleepManager",
+				"SleepManagerUIRoot"
+			],
+			[
+				"sleepMana",
+				"sleepManagerUIRoot_Transform"
+			],
+			[
+				"Scroller",
+				"Scroller_Transform"
+			],
+			[
+				"scroller",
+				"Scroller_Transform"
+			],
+			[
+				"scroll",
+				"scroller_Transform"
+			],
+			[
+				"child",
+				"child_UIWidget"
+			],
+			[
+				"delta",
+				"deltaScroll"
+			],
+			[
+				"ve",
+				"velocityX"
+			],
+			[
+				"background",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Unity3D Build System/Unity.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"m",
+				"Minify Javascript to file"
+			],
+			[
+				"sj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint Current File"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"sc",
+				"Set Syntax: C#"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"pl",
+				"Package Control: List Packages"
+			],
+			[
+				"pe",
+				"Package Control: Enable Package"
+			],
+			[
+				"su",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"pr",
+				"Package Control: Remove Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"pd",
+				"Package Control: Disable Package"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"unity",
+				"Unity Reference: Open Function Reference"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"tr",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"spaces",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"pref",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"BracketHighlighter: Select Next Attribute (left)"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"sh",
+				"Set Syntax: HTML"
+			],
+			[
+				"sh	",
+				"Set Syntax: HTML"
+			],
+			[
+				"mi",
+				"Minify Javascript"
+			],
+			[
+				"mini",
+				"Minify Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"js",
+				"Format: Javascript"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ppa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"PE",
+				"Package Control: Enable Package"
+			],
+			[
+				"PL",
+				"Package Control: List Packages"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"diable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disble",
+				"Package Control: Disable Package"
+			],
+			[
+				"disbale",
+				"Snippet: EditorGUI.*(position, label, value, leftValue, rightValue)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"instale",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"package en",
+				"Package Control: Enable Package"
+			],
+			[
+				"package dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"package ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package add",
+				"Package Control: Add Repository"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"package e",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package",
+				"Package Control: Disable Package"
+			],
+			[
+				"Packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"Pack",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 213.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Dropbox/github/events-emitter/src/events-emitter.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Dropbox/github/events-emitter/dist/events-emitter.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Dropbox/github/events-emitter/gruntfile.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Dropbox/github/events-emitter/src/index.html",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Dropbox/github/events-emitter/events-emitter.sublime-project",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Dropbox/github/events-emitter/package.json",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Dropbox/github/events-emitter/test/events-emitter.spec.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Dropbox/github/events-emitter/src/events-emitter2.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Dropbox/github/define-lazy-property.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Dropbox/github/create-private-getter.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Dropbox/github/state-machine/scenario",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Dropbox/github/state-machine/state-machine.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/color/src/color.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/events-emitter/src/events-emitter.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/state-machine/src/state-machine.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/umd.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/umd.min.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/define-private-property.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/define-lazy-property.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/events-emitter/src/signals-emitter.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/events-emitter/src/signal.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/events-emitter/test/signals-emitter.spec.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/events-emitter/test/events-emitter.spec.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/color/test/color.spec.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/events-emitter/test/signal.spec.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/events-emitter/test/events.spec.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/events-emitter/src/events.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/events/test/dat.events.html",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/events/.npmignore",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/lazy/package.json",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/color/package.json",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/state-machine/package.json",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/events/package.json",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/state-machine/_SpecRunner.html",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/developpement/js/eventemitter2.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/state-machine/dist/state-machine.min.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/state-machine/.npmignore",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/state-machine/.gitignore",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/state-machine/index.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/lazy/lazy.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/lazy/index.html",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/state-machine/test/state-machine.spec.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/state-machine/Gruntfile.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/state-machine/state-machine.sublime-project",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/state-machine/test/index.html",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/state-machine/state-machine.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/state-machine/test/unit/state-machine.spec.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/state-machine/.grunt/grunt-contrib-jasmine/phantom-polyfill.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/Gruntfile.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/git-pre-commit.txt",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/github/state-machine/test/karma.conf.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/tests/jasmine/index.html",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/BOOKS.txt",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/today.readme",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/TasksButtonsEventsDelegator.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/tasks.package/SleepTaskButtonTooltip.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/todo.txt",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/TaskButton.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/tasks.package/TaskButtonTooltip.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/NGUI/Scripts/Tweening/UITweener.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Main/Localization/English.txt",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/tasks.package/SleepTaskButtonRoot.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/ScrollOnMouseWheel.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/developpement/js/fsm.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/NGUI/Scripts/Interaction/UIForwardEvents.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/ScrollOnMouseWheel",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/NGUI/Scripts/UI/UICamera.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/NGUI/Scripts/UI/UIPanel.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/SleepManager/Day.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/LevelDesign/InertiaReducingActivity.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/GUI/SleepSceneController.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/NGUI/Scripts/UI/UILabel.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/SleepManager/Nap.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/GUI/ManagementPageController.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/SleepManager/SleepManager.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/NGUI/Scripts/Interaction/UIScrollBar.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/NGUI/Scripts/Interaction/UIButton.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/NGUI/Scripts/Interaction/UIImageButton.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/ScrollTarget.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/MapController.cs",
+		"/H/Unity/Assets/Scripts/TaskButton.cs",
+		"/H/Unity/Assets/tasks.package/TaskButtonTooltip.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/TaskButtonsScroll.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/TaskButtonsScroll",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/TaskButtonUIDragPanelFix.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/developpement/js/color.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/today.txt",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/GUI/ManagementPageController.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/SleepManager/Scrollbar.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/TaskButton.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/SleepManager/SleepManager.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/SleepManager/SleepCurveScrollbar.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/SleepManager/Scrollbar.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/NGUI/Scripts/Internal/UIEventListener.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/FatigueLevelChanger.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Assets/Scripts/Incapacitations/Fatigue.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity.new/Unity.new.sublime-project",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/Timeline.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/TimelineKeyframe.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/TimelineTarget.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/TimelineKeyframeGizmo.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/ShuttlePath.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/ShuttleWaypoint.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/NGUI/Scripts/Interaction/UIForwardEvents.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/SleepManager/Nap.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/FreezeRotations.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/SleepManager/SleepThreshold.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/Utils/TriggerOnMessage.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/Utils/MonoSingleton.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/Utils/DestroyOnMessage.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/Utils/DeactiveOnMessage.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/Utils/ActiveOnMessage.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/MonoBehaviour2.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/IDestroyListener.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/DestroyOnMessage.cs",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/pusher.color.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/tests/lazy/lazy.js",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/airbus.txt",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/dat.color.correction.html",
+		"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Bureau/Canvas2D/Template/developpement/all.txt",
+		"/C/Users/Cyril Sobierajewicz/AppData/Roaming/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/Cyril Sobierajewicz/AppData/Roaming/Sublime Text 2/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/Cyril Sobierajewicz/AppData/Roaming/Sublime Text 2/Packages/Terminal/Base File.sublime-settings",
+		"/C/Users/Cyril Sobierajewicz/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/C/Users/Cyril Sobierajewicz/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Cyril Sobierajewicz/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Cyril Sobierajewicz/AppData/Roaming/Sublime Text 2/Packages/User/trailing_spaces.sublime-settings"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"another-event",
+			"throw",
+			"options.ghosts",
+			"clearListeners",
+			"//",
+			"/",
+			"..",
+			"context",
+			"machina",
+			"invokeListener",
+			"if",
+			"&&",
+			"clearMemories(this, event);",
+			"addListener",
+			"listenerId, ",
+			"ERROR",
+			"FUNCTION",
+			"OBJECT",
+			"STRING",
+			"NUMBER",
+			"ERROR",
+			"_EVENTS",
+			"_LISTENERS",
+			"_MEMORIES",
+			"'times'",
+			"errOptions",
+			"errCallback",
+			"_events",
+			"_listeners",
+			"_memories",
+			"OBJECT",
+			"object",
+			"string",
+			"error",
+			"number",
+			"times",
+			"'object'",
+			"'string'",
+			"'error'",
+			"errCallback",
+			"this",
+			"return",
+			"errOptionsNonNullObject",
+			"'Options must be a non null object'",
+			"Options must be a non null object",
+			"'Options must be a non null object'",
+			"//",
+			"this",
+			"this.",
+			"_clearGhosts",
+			"_clearListeners",
+			"this.",
+			"this",
+			"Undefined",
+			"this._events[event]",
+			"{}",
+			"[]",
+			"_listeners",
+			"listenerId",
+			"globalListenerId",
+			"EventsEmitter",
+			"removeAllListenersOf",
+			"_remembered",
+			"isGhostListener",
+			"MODULE_NAME",
+			"_remembered",
+			"listeners",
+			"!invoke",
+			"ret",
+			"Equal([]",
+			"key",
+			"exports",
+			"methods",
+			"_immediates",
+			"_immediate",
+			"callbacks",
+			"listeners",
+			"this._",
+			"mixin",
+			"count",
+			"Events",
+			"machina",
+			"fsm",
+			"callback",
+			"typeof",
+			"this",
+			"call",
+			"GLOBAL_LISTENER_ID",
+			"isArray",
+			"rest",
+			"this._immediate[event]",
+			"var callback = function () { times += 1 },\n			times = 0;",
+			"'a'",
+			"a",
+			"globalListenerId",
+			"fn",
+			"			",
+			"listeners",
+			"key",
+			"callback",
+			"retains",
+			"global",
+			"\"",
+			".state(",
+			".state()",
+			".state",
+			"next",
+			"name",
+			"state",
+			"go",
+			"currentHistoryIndex",
+			"walk",
+			"idle",
+			"inverse",
+			"not",
+			"allowed",
+			"index",
+			"fn",
+			"StateMachine.prototype",
+			"public",
+			"HideTooltip",
+			"durationMax",
+			"onScroll",
+			"ScaleIn",
+			"Update",
+			"ScaleIn",
+			"backgroundScale",
+			"ScaleIn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"%)",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 291.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"uitween",
+				"NGUI/Tweening/UITweener.cs"
+			],
+			[
+				"uicamera",
+				"NGUI/UI/UICamera.cs"
+			],
+			[
+				"englis",
+				"Localization/English.txt"
+			],
+			[
+				"engli",
+				"Localization/English.txt"
+			],
+			[
+				"uicamer",
+				"NGUI/UI/UICamera.cs"
+			],
+			[
+				"uipanel",
+				"NGUI/UI/UIPanel.cs"
+			],
+			[
+				"taskbutton",
+				"Scripts/TaskButton.cs"
+			],
+			[
+				"day",
+				"Scripts/SleepManager/Day.cs"
+			],
+			[
+				"management",
+				"Scripts/GUI/ManagementPageController.cs"
+			],
+			[
+				"uiscr",
+				"NGUI/Interaction/UIScrollBar.cs"
+			],
+			[
+				"mana",
+				"Scripts/GUI/ManagementPageController.cs"
+			],
+			[
+				"managem",
+				"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/GUI/ManagementPageController.cs"
+			],
+			[
+				"manageme",
+				"Scripts/GUI/ManagementPageController.cs"
+			],
+			[
+				"page",
+				"Scripts/GUI/ManagementPageController.cs"
+			],
+			[
+				"bright",
+				"Scripts/Image Effects/_Sources/Shaders/_BloomAndFlares/BrightPassFilter.shader"
+			],
+			[
+				"path",
+				"Scripts/ShuttlePath.cs"
+			],
+			[
+				"waypo",
+				"Scripts/WaypointsPath.cs"
+			],
+			[
+				"timeline",
+				"Scripts/TimelineKeyframeGizmo.cs"
+			],
+			[
+				"watch",
+				"Scripts/GUI/WatchController.cs"
+			],
+			[
+				"sleepco",
+				"Scripts/SleepManager/SleepCoef.cs"
+			],
+			[
+				"sleepscene",
+				"Scripts/GUI/SleepSceneController.cs"
+			],
+			[
+				"nap",
+				"Scripts/SleepManager/Nap.cs"
+			],
+			[
+				"sleep",
+				"Scripts/SleepManager/SleepStage.cs"
+			],
+			[
+				"sleeppro",
+				"Assets/Scripts/SleepManager/SleepProfiles.cs"
+			],
+			[
+				"sleepcoef",
+				"Assets/Scripts/SleepManager/SleepCoef.cs"
+			],
+			[
+				"sleepmana",
+				"Assets/Scripts/SleepManager/SleepManager.cs"
+			],
+			[
+				"",
+				"/D/~ DONNEES ~/Cyril Sobierajewicz/Bureau/Unity/Airbus/Unity/Assets/Scripts/spquestionnary.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}
